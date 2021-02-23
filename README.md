@@ -35,11 +35,12 @@ Normal Text
 **Link**      
 https://192.168.2.253/    
 
-**Data**          
-|Name|College|Branch|             
-|-----|-----|-----|       
-|Akhil|VRSEC|IT|         
-|B.Akhil|VRSEC|CSE|       
+**Data** 
+
+|Name|College|Branch|                   
+|-----|-----|-----|          
+|Akhil|VRSEC|IT|               
+|B.Akhil|VRSEC|CSE|             
 
 ~~Strike Text~~      
 - [x] checkbox         
